@@ -6,5 +6,5 @@ T1: TOP500 & me - Comparativo de Arquiteturas Paralelas
 3. Para preencher a tabela, você vai ter que fazer o seguinte:
   - Buscar informações de fabricantes, tanto para o computador do TOP500 como para seu computador.
   - Executar um benchmark **Linpack** no seu computador, para preencher o item sobre Desempenho (Flop/s) na tabela comparativa.
-4. Existem várias distribuições do Linpack, por exemplo: HPL (High Performance Linpack), usado no TOP500; em netlib.org, com fontes disponíveis; no site da Intel; etc. O HPL é um Linpack com paralelismo e exige instalação de algumas bibliotecas. O da Intel é distribuído junto com outros benchmarks executáveis. Você pode escolher qualquer distribuição, mas **deverá informar onde foi obtida**.
+4. Existem várias distribuições do Linpack, por exemplo: HPL (High Performance Linpack), usado no TOP500; em netlib.org, com fontes disponíveis; no site da Intel; etc. O HPL é um Linpack com paralelismo e exige instalação de algumas bibliotecas. O da Intel é distribuído junto com outros benchmarks executáveis. Você pode escolher qualquer distribuição do Linpack, mas **deverá informar** onde o benchmark foi obtido**.
 5. **Importante**: Na aula logo após a entrega do trabalho, você deve ter em mãos os dados da sua tabela.
