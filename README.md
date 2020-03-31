@@ -1,3 +1,5 @@
+[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2020a) > Trabalhos
+
 T1: TOP500 & me - Comparativo de Arquiteturas Paralelas
 -------------------------------------------------------
 
